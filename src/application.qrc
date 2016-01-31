@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="/pixmaps">
+    <file>pixmaps/vc-revert.png</file>
+    <file>pixmaps/editcopy.xpm</file>
+    <file>pixmaps/editcut.xpm</file>
+    <file>pixmaps/editpaste.xpm</file>
+    <file>pixmaps/filenew.xpm</file>
+    <file>pixmaps/fileopen.xpm</file>
+    <file>pixmaps/filesave.xpm</file>
+    <file>pixmaps/next.png</file>
+    <file>pixmaps/previous.png</file>
+    <file>pixmaps/exit.png</file>
+    <file>pixmaps/ok.png</file>
+    <file>pixmaps/redo.png</file>
+    <file>pixmaps/table_row_delete.png</file>
+    <file>pixmaps/table_row_insert.png</file>
+    <file>pixmaps/pigmoney.png</file>
+  </qresource>
+</RCC>
